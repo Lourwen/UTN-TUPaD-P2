@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/InterfacesYExcepciones.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Pagable.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Producto.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Pedido.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Pago.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/PagoConDescuento.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/TarjetaDeCredito.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Paypal.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Notificable.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Cliente.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Excepciones/DivisionSegura.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Excepciones/ConversionSegura.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Excepciones/LecturaDeArchivo.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Excepciones/EdadInvalidaException.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Excepciones/ValidacionDeEdad.java</file>
+            <file>file:/C:/Users/user/OneDrive%20-%20TUPAD%20UTN/Documentos/NetBeansProjects/InterfacesYExcepciones/src/interfacesyexcepciones/Excepciones/LecturaArchivoTryWithResources.java</file>
+        </group>
+    </open-files>
+</project-private>
